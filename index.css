@@ -1,0 +1,78 @@
+.btn{
+    background-color: rgb(36, 36, 207);
+    color: rgb(226, 226, 233);
+    padding: 15px;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    cursur:pointer;
+    font-size: 15px;
+}
+    .btn2{
+    background-color: rgb(189, 22, 22);
+    color: rgba(227, 227, 235, 0.932);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: grab;
+    font-size: 15px;
+}
+.btn3{
+    background-color: rgb(123, 20, 219);
+    color: rgb(237, 240, 243);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    cursur:pointer;
+    font-size: 15px;
+
+}
+.btn4{
+    background-color: rgb(240, 11, 11);
+    color: rgb(112, 173, 226);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursur:pointer;
+
+}
+.btn5{
+    background-color: rgb(129, 5, 245);
+   color: rgb(93, 167, 231);
+   padding: 15px;
+   border: none;
+   border-radius: 10px;
+   font-size: 15px;
+   cursur:pointer;
+}
+.btn6{
+    background-color: rgb(231, 150, 28);
+    color: rgba(0, 0, 0, 0.733);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.btn7{
+    background-color: brown;
+    color: black;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursur:pointer;
+
+}
+.btn8{
+    background-color: rgb(122, 230, 15);
+    color: rgb(236, 9, 55);
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursur:pointer;
+}
+
+
